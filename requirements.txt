@@ -1,1 +1,2 @@
 -e git+ssh://git@github.com/drsm79/test1.git@master#egg=test1-master
+-e git+ssh://git@github.com/cloudant/carburetor.git@setup.py#egg=Carburetor
