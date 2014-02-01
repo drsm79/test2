@@ -1,0 +1,1 @@
+-e git+ssh://git@github.com/drsm79/test1.git@master#egg=test1-master
